@@ -12,4 +12,7 @@ Configurations:
   
 - Blynk: connection through blynk.
     Control: through blynk app
+    Usage:
+        1.Add blynk library
+        2.Use ESP8266_Standalone example (same code)
     http://www.blynk.cc/
